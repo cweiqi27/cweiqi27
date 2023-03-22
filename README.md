@@ -1,16 +1,16 @@
 ## Howdy Hey 👋
 **Wei Qi** here, I develop web apps and stuff.
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,mysql,prisma,tailwind,sass,css,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,mysql,prisma,planetscale,tailwind,sass,css,laravel)](https://skillicons.dev)
 
 - 🔭 I’m currently working on a t3 stack forum system
 - 🌱 I’m currently learning typescript
 
 📫 **Contact me:**
 
-[![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/60169225966)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=chanweiqi27@gmail.com)
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chan-wei-qi-141989224/)
+[![image](https://img.shields.io/badge/chanweiqi27@gmail.com-D14836?&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=chanweiqi27@gmail.com)
+[![image](https://img.shields.io/badge/Chan_Wei_Qi-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chan-wei-qi-141989224/)
+[![image](https://img.shields.io/badge/0169225966-25D366?&logo=whatsapp&logoColor=white)](https://wa.me/60169225966)
 
 [![Wei Qi's GitHub stats](https://github-readme-stats.vercel.app/api?username=cweiqi27&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![finn_eating](https://user-images.githubusercontent.com/97137887/226861888-c45f59db-2ddf-4b00-8cf2-8b11de27c7ff.gif)
