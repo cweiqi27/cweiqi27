@@ -1,5 +1,5 @@
-## Hello world 👋
-I'm **Wei Qi**, I develop web apps.
+## Howdy Hey 👋
+**Wei Qi** here, I develop web apps and stuff.
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,mysql,prisma,tailwind,sass,css,laravel)](https://skillicons.dev)
 
