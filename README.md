@@ -1,7 +1,7 @@
 ## Howdy Hey 👋
 **Wei Qi** here, I develop web apps and stuff.
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,mysql,prisma,planetscale,tailwind,sass,css,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,mysql,prisma,planetscale,tailwind,sass,css,laravel,java)](https://skillicons.dev)
 
 - 🔭 I’m currently working on a t3 stack forum system
 - 🌱 I’m currently learning typescript
