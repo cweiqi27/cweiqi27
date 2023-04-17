@@ -1,10 +1,10 @@
-## Howdy Hey 👋
+## Hello 👋
 **Wei Qi** here, I develop web apps and stuff.
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,mysql,prisma,tailwind,sass,css,html,laravel)](https://skillicons.dev)
 
-- 🔭 I’m currently working on a MERN app
-- 🌱 I’m currently learning typescript
+- 🔭 I’m currently working on a typescript, MERN stack gym/workout helper SPA
+- 🌱 I’m currently learning typescript, vim motions (vscodevim)
 
 📫 **Contact me:**
 
