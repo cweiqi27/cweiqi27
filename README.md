@@ -4,7 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,mysql,prisma,tailwind,sass,css,html,laravel)](https://skillicons.dev)
 
 - 🔭 I’m currently working on a typescript, MERN stack gym/workout helper SPA
-- 🌱 I’m currently learning typescript, vim motions (vscodevim)
+- 🌱 I’m currently learning typescript
 
 📫 **Contact me:**
 
