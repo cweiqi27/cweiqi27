@@ -4,7 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,mysql,prisma,tailwind,sass,css,html,laravel)](https://skillicons.dev)
 
 - 🔭 I’m currently working on [Gym Halpert](https://github.com/cweiqi27/gym-halpert), a typescript, MERN stack gym/workout helper SPA
-- 🌱 I’m currently learning typescript
+- 🌱 I’m currently learning CI/CD, monorepo, micro-frontend/micro-services
 
 📫 **Contact me:**
 
