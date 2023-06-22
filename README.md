@@ -1,5 +1,5 @@
 ## Hello 👋
-**Wei Qi** here, I develop web apps and stuff.
+**Wei Qi** here, I develop web apps and stuff. Also a newbie tilling window manager enthusiast lol
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,mysql,prisma,tailwind,sass,css,html,laravel)](https://skillicons.dev)
 
