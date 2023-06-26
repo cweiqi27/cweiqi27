@@ -1,12 +1,13 @@
-## Hello 👋
-I develop web apps and stuff. Also a newbie tilling window manager enthusiast lol
+## hi 👋
+i like to build web apps
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,mysql,prisma,tailwind,sass,css,html,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,mysql,tailwind,sass,css,html,laravel,neovim,linux)](https://skillicons.dev)
 
-- 🔭 Wasting my youth ricing swaywm on fedora workstation ^.^
-- 🌱 I’m currently learning vue.js
+- 🌱 learning vue
+- literally uses neovim to look cool
+- i use ~~arch~~ fedora btw, n redhat being kinda sus lately, what do i do
 
-📫 **Contact me:**
+📫 **contact me:**
 
 [![image](https://img.shields.io/badge/chanweiqi27@gmail.com-D14836?&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=chanweiqi27@gmail.com)
 [![image](https://img.shields.io/badge/Chan_Wei_Qi-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chan-wei-qi-141989224/)
