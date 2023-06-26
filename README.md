@@ -4,8 +4,6 @@ i like to build web apps
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,mysql,tailwind,sass,css,html,laravel,neovim,linux)](https://skillicons.dev)
 
 - 🌱 learning vue
-- literally uses neovim to look cool
-- i use ~~arch~~ fedora btw, redhat being sus lately, what do i do
 
 📫 **contact me:**
 
