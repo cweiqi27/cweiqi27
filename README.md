@@ -5,7 +5,7 @@ i like to build web apps
 
 - 🌱 learning vue
 - literally uses neovim to look cool
-- i use ~~arch~~ fedora btw, n redhat being kinda sus lately, what do i do
+- i use ~~arch~~ fedora btw, redhat being sus lately, what do i do
 
 📫 **contact me:**
 
