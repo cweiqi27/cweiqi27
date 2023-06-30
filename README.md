@@ -1,7 +1,7 @@
 ## hi 👋
 i like to build web apps
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,mysql,tailwind,sass,css,html,laravel,neovim,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,mysql,tailwind,sass,css,html,php,laravel,neovim,linux)](https://skillicons.dev)
 
 - 🌱 learning vue
 
