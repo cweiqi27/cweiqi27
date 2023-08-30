@@ -4,7 +4,6 @@ gotem
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,mysql,tailwind,sass,css,html,php,laravel,neovim,linux)](https://skillicons.dev)
 
 - 🌱 learning nest.js
-- ლ(╹◡╹ლ) multithreading in node.js???
 - 🪄 mastering types wizardry
 
 📫 **contact me:**
