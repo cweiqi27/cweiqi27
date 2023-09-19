@@ -3,7 +3,7 @@ gotem
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,mysql,tailwind,sass,css,html,php,laravel,neovim,linux)](https://skillicons.dev)
 
-- 🌱 learning nest.js
+- 🌱 learning nest.js - rxjs - springboot - postgresql
 - 🪄 mastering types wizardry
 
 📫 **contact me:**
