@@ -3,9 +3,6 @@ gotem
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,mysql,tailwind,sass,css,html,php,laravel,neovim,linux)](https://skillicons.dev)
 
-- 🌱 learning nest.js - rxjs - springboot - postgresql
-- 🪄 mastering types wizardry
-
 📫 **contact me:**
 
 [![image](https://img.shields.io/badge/chanweiqi27@gmail.com-D14836?&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=chanweiqi27@gmail.com)
