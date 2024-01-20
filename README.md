@@ -1,7 +1,7 @@
 ## hi 👋
 gotem
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,mysql,tailwind,sass,css,html,php,laravel,neovim,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,neovim)](https://skillicons.dev)
 
 📫 **contact me:**
 
