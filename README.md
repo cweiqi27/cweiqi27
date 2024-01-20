@@ -1,4 +1,4 @@
-## hi 👋
+## 👋
 gotem
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,neovim)](https://skillicons.dev)
