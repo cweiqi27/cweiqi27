@@ -3,11 +3,6 @@ gotem
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,neovim)](https://skillicons.dev)
 
-📫 **contact me:**
-
-[![image](https://img.shields.io/badge/chanweiqi27@gmail.com-D14836?&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=chanweiqi27@gmail.com)
-[![image](https://img.shields.io/badge/Chan_Wei_Qi-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chan-wei-qi-141989224/)
-
 [![Wei Qi's GitHub stats](https://github-readme-stats.vercel.app/api?username=cweiqi27&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![finn_eating](https://user-images.githubusercontent.com/97137887/226861888-c45f59db-2ddf-4b00-8cf2-8b11de27c7ff.gif)
 
